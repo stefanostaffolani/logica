@@ -1,6 +1,6 @@
 {--
 dato un albero binario scrivere la funzione f che prende in input un albero e ritorna (n,m,b) dove:
-    n : numero t.c. uno dei più grandio sotto-alberi di  T ha tutte le foglie etichettate con n;
+    n : numero t.c. uno dei più grandi sotto-alberi di T ha tutte le foglie etichettate con n;
     m : numero di nodi di tale albero;
     b : 1 se le foglie di T sono tutte etichettate con n
 --}
